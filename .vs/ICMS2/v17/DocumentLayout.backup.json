@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rajth\\source\\repos\\ICMS2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{031F0E27-A14B-4774-98FC-52EFDAE1634E}|ICMS2\\ICMS2.csproj|c:\\users\\rajth\\source\\repos\\icms2\\icms2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{031F0E27-A14B-4774-98FC-52EFDAE1634E}|ICMS2\\ICMS2.csproj|solutionrelative:icms2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031F0E27-A14B-4774-98FC-52EFDAE1634E}|ICMS2\\ICMS2.csproj|c:\\users\\rajth\\source\\repos\\icms2\\icms2\\views\\mapping\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{031F0E27-A14B-4774-98FC-52EFDAE1634E}|ICMS2\\ICMS2.csproj|solutionrelative:icms2\\views\\mapping\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031F0E27-A14B-4774-98FC-52EFDAE1634E}|ICMS2\\ICMS2.csproj|c:\\users\\rajth\\source\\repos\\icms2\\icms2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{031F0E27-A14B-4774-98FC-52EFDAE1634E}|ICMS2\\ICMS2.csproj|solutionrelative:icms2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031F0E27-A14B-4774-98FC-52EFDAE1634E}|ICMS2\\ICMS2.csproj|c:\\users\\rajth\\source\\repos\\icms2\\icms2\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{031F0E27-A14B-4774-98FC-52EFDAE1634E}|ICMS2\\ICMS2.csproj|solutionrelative:icms2\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031F0E27-A14B-4774-98FC-52EFDAE1634E}|ICMS2\\ICMS2.csproj|c:\\users\\rajth\\source\\repos\\icms2\\icms2\\views\\mapping\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{031F0E27-A14B-4774-98FC-52EFDAE1634E}|ICMS2\\ICMS2.csproj|solutionrelative:icms2\\views\\mapping\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031F0E27-A14B-4774-98FC-52EFDAE1634E}|ICMS2\\ICMS2.csproj|c:\\users\\rajth\\source\\repos\\icms2\\icms2\\views\\mapping\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{031F0E27-A14B-4774-98FC-52EFDAE1634E}|ICMS2\\ICMS2.csproj|solutionrelative:icms2\\views\\mapping\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031F0E27-A14B-4774-98FC-52EFDAE1634E}|ICMS2\\ICMS2.csproj|c:\\users\\rajth\\source\\repos\\icms2\\icms2\\views\\mapping\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{031F0E27-A14B-4774-98FC-52EFDAE1634E}|ICMS2\\ICMS2.csproj|solutionrelative:icms2\\views\\mapping\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rajth\\source\\repos\\ICMS2\\ICMS2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ICMS2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rajth\\source\\repos\\ICMS2\\ICMS2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ICMS2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T16:52:56.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\rajth\\source\\repos\\ICMS2\\ICMS2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ICMS2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\rajth\\source\\repos\\ICMS2\\ICMS2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ICMS2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAFcBAAAAAAAAAAAAAGcBAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T16:13:09.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rajth\\source\\repos\\ICMS2\\ICMS2\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "ICMS2\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rajth\\source\\repos\\ICMS2\\ICMS2\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "ICMS2\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAEgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T16:12:13.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\rajth\\source\\repos\\ICMS2\\ICMS2\\Views\\Mapping\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ICMS2\\Views\\Mapping\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\rajth\\source\\repos\\ICMS2\\ICMS2\\Views\\Mapping\\Delete.cshtml",
+              "RelativeToolTip": "ICMS2\\Views\\Mapping\\Delete.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T16:10:45.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\rajth\\source\\repos\\ICMS2\\ICMS2\\Views\\Mapping\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ICMS2\\Views\\Mapping\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\rajth\\source\\repos\\ICMS2\\ICMS2\\Views\\Mapping\\Edit.cshtml",
+              "RelativeToolTip": "ICMS2\\Views\\Mapping\\Edit.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T16:08:24.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rajth\\source\\repos\\ICMS2\\ICMS2\\Views\\Mapping\\Index.cshtml",
+              "RelativeDocumentMoniker": "ICMS2\\Views\\Mapping\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rajth\\source\\repos\\ICMS2\\ICMS2\\Views\\Mapping\\Index.cshtml",
+              "RelativeToolTip": "ICMS2\\Views\\Mapping\\Index.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADMAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T16:07:00.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\rajth\\source\\repos\\ICMS2\\ICMS2\\Views\\Mapping\\Create.cshtml",
+              "RelativeDocumentMoniker": "ICMS2\\Views\\Mapping\\Create.cshtml",
+              "ToolTip": "C:\\Users\\rajth\\source\\repos\\ICMS2\\ICMS2\\Views\\Mapping\\Create.cshtml",
+              "RelativeToolTip": "ICMS2\\Views\\Mapping\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-15T16:03:36.956Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
